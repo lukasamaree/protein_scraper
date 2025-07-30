@@ -1,0 +1,6 @@
+streamlit
+pandas
+playwright
+cloudscraper
+python-dateutil
+requests

@@ -1,0 +1,11 @@
+Protein Details Scraping Log - Started at 2025-07-30 00:30:11
+Starting from Protein ID: 1035
+================================================================================
+
+[00:30:26] Protein ID 1035 (PTEN): Success
+
+================================================================================
+
+Protein Details Scraping completed at 2025-07-30 00:30:26
+Total proteins processed: 1
+Exploded combined data saved to: protein_details_data/all_proteins_details_exploded_PTEN.csv
