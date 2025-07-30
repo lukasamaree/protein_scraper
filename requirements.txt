@@ -4,3 +4,4 @@ playwright
 cloudscraper
 python-dateutil
 requests
+plotly
