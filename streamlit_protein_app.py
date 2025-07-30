@@ -1,3 +1,5 @@
+import subprocess
+subprocess.run(["playwright", "install", "chromium"], check=True)
 import streamlit as st
 import pandas as pd
 import asyncio
